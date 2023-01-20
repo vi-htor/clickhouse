@@ -1,2 +1,3 @@
 ---
 # defaults file for clickhouse
+clickhouse_version: "22.9.6.20"
